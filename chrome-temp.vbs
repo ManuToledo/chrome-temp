@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "chrome-temp.bat", 0, True
