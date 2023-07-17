@@ -16,3 +16,5 @@ You can use the ```new-profile.bat``` script to delete the old profile and make 
 
 - [x] Windows scripts
 - [ ] Linux scripts
+- [ ] JavaFX GUI
+- [ ] Profile selection
